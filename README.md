@@ -23,7 +23,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavpala&" alt="VaibhavPal" /></p>
 
-<h2 align="left">🤝🏻 Connect with Me -</h2>
+
 
 
 
