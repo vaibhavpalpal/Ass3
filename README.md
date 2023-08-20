@@ -19,6 +19,7 @@
 ### ⚙️ GitHub Analytics
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avadheshshukla&show_icons=true&locale=en&layout=compact" alt="VaibhavPal" /></p>
 
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhavpal&show_icons=true&locale=en" alt="VaibhavPal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavpala&" alt="VaibhavPal" /></p>
