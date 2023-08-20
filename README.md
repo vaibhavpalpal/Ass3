@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavpal&label=Profile%20views&color=0e75b6&style=flat" alt="Vaibhav Pal" /> </p>
 
 - 📩 Email Id -  **vaibhav13052001@gmail.com**
-- 📞 Contact No. **vaibhav13052001@gmail.com**
+- 📞 Contact No. -  **+918057746491**
 
 - 👉 Intrested in **Writing 📝** & **Coding🔺🔻**
 
