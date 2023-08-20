@@ -24,13 +24,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavpala&" alt="VaibhavPal" /></p>
 
 <h2 align="left">🤝🏻 Connect with Me -</h2>
-<p align="left">
-<a href="https://www.linkedin.com/in/vaibhav-pal-172b71187/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkdIn Image" height="30" width="40" /></a>
-<a href="https://www.instagram.com/again_vaibhav/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Insta Id" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/vaibhav13052001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank Id" height="30" width="40" /></a>
-<a href="https://leetcode.com/vaibhav13052001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode Id" height="30" width="40" /></a>
-<a href="https://support.discord.com/hc/en-us/profiles/16897417696791" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord Id" height="30" width="40" /></a>
-</p>
+
 
 
 
